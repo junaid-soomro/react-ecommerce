@@ -4,7 +4,6 @@ import { popularProducts } from "../data";
 import { ProductItem } from "./ProductItem";
 
 const Container = styled.div`
-  display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
 `;
