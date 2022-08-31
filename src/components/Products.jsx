@@ -3,9 +3,7 @@ import styled from "styled-components";
 import { popularProducts } from "../data";
 import { ProductItem } from "./ProductItem";
 
-const Container = styled.div`
-  justify-content: space-between;
-`;
+const Container = styled.div``;
 
 export const Products = () => {
   return (
