@@ -10,6 +10,8 @@ const Container = styled.div`
   flex-wrap: wrap;
   justify-content: space-between;
 `;
+const Container = styled.div``;
+
 
 export const Products = () => {
   return (
